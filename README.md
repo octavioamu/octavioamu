@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://github.com/octavioamu/octavioamu/raw/master/construction_graphic.gif?sanitize=true">
-</div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octavioamu&theme=vue&layout=compact)
+
+
+
+![Octavioamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=octavioamu&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
